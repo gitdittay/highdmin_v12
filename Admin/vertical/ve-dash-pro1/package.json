@@ -1,0 +1,21 @@
+{
+  "name": "ve-dash-pro1",
+  "version": "1.0.0",
+  "description": "VE Dashboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "highdmin_v12"
+  },
+  "keywords": [
+    "dashboard"
+  ],
+  "author": "David Taylor",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
